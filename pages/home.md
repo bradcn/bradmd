@@ -1,5 +1,7 @@
 # Bradmd - Markdown to React Framework
 
+## THIS IS JUST A PREVIEW PAGE, FOR MORE VISIT [HERE](https://bradmd.bradcn.site)
+
 ## Overview
 
 This framework allows you to easily convert Markdown pages into a fully functional React site. It leverages Vite for fast builds and Tailwind CSS for styling, providing a modern and efficient development experience.

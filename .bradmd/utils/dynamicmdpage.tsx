@@ -63,7 +63,7 @@ const DynamicMarkdownPage = () => {
     });
 
     if (loading) {
-        return <div className=' px-6 py-6 text-3xl'>Loading...</div>;
+        return <div className='w-1/2 mx-auto font-bold px-6 py-6 text-3xl'>Loading...</div>;
     }
 
     if (error) {

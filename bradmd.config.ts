@@ -20,62 +20,37 @@ export const bradmdConfig = {
               label: "Resources",
               items: [
                   {
-                      href: 'javascript:void()',
-                      name: 'contact'
+                      href: '/contact',
+                      name: 'Contact'
                   },
                   {
-                      href: 'javascript:void()',
+                      href: '/support',
                       name: 'Support'
                   },
                   {
-                      href: 'javascript:void()',
+                      href: 'https://bradmd.bradcn.site/',
                       name: 'Documentation'
-                  },
-                  {
-                      href: 'javascript:void()',
-                      name: 'Pricing'
                   },
               ],
           },
           {
               label: "About",
               items: [
+                {
+                    href: 'https://bradmd.bradcn.site/blog',
+                    name: 'Terms'
+                },
                   {
-                      href: 'javascript:void()',
+                      href: 'https://bradcn.site/terms',
                       name: 'Terms'
                   },
                   {
-                      href: 'javascript:void()',
+                      href: 'https://github.com/bradcn/bradmd/blob/main/LICENSE',
                       name: 'License'
                   },
                   {
-                      href: 'javascript:void()',
-                      name: 'Privacy'
-                  },
-                  {
-                      href: 'javascript:void()',
+                      href: '/about',
                       name: 'About US'
-                  },
-              ]
-          },
-          {
-              label: "Explore",
-              items: [
-                  {
-                      href: 'javascript:void()',
-                      name: 'Showcase'
-                  },
-                  {
-                      href: 'javascript:void()',
-                      name: 'Roadmap'
-                  },
-                  {
-                      href: 'javascript:void()',
-                      name: 'Languages'
-                  },
-                  {
-                      href: 'javascript:void()',
-                      name: 'Blog'
                   },
               ]
           },
@@ -83,16 +58,12 @@ export const bradmdConfig = {
               label: "Company",
               items: [
                   {
-                      href: 'javascript:void()',
-                      name: 'Partners'
+                      href: 'https://bradcn.site/',
+                      name: 'Company Page'
                   },
                   {
-                      href: 'javascript:void()',
+                      href: '/team',
                       name: 'Team'
-                  },
-                  {
-                      href: 'javascript:void()',
-                      name: 'Careers'
                   },
               ],
           }
